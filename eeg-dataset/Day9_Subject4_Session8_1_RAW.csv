@@ -1,0 +1,16 @@
+%OpenBCI Raw EEG Data
+%Number of channels = 8
+%Sample Rate = 256 Hz
+%Board = OpenBCI_GUI$BoardCytonSerial
+%Channels = Fp1, Fp2, F3, F4, Fz, Pz, O1, O2
+%Data recorded at AIMS Lab (http://aimsl.uiu.ac.bd) by Rana Depto (mail@ranadepto.com)
+%Brainwaves were obtained via the Ultracortex Mark IV Headset using the OpenBCI Cyton Board
+%Recording Application = ConcentrateToday (https://concentrate.today)
+%Data type = RAW data with noise
+%Day No = 9
+%Subject ID = 4
+%Session ID = 8
+%Record starting timestamp (UTC+6) = 2022-03-28T10:59:50.015420
+%Record ending timestamp (UTC+6)   = 2022-03-28T10:59:50.508045
+%Recorded durations = ~0 seconds
+Sample Index, EXG Channel 0, EXG Channel 1, EXG Channel 2, EXG Channel 3, EXG Channel 4, EXG Channel 5, EXG Channel 6, EXG Channel 7, Accel Channel 0, Accel Channel 1, Accel Channel 2, Other, Other, Other, Other, Other, Other, Other, Analog Channel 0, Analog Channel 1, Analog Channel 2, Timestamp, Timestamp (Formatted)
